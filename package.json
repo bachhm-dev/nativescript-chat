@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@nativescript/theme": "^2.2.1",
-    "@vue/devtools": "^5.3.3",
+    "@vue/devtools": "^6.4.5",
     "nativescript-plugin-firebase": "^10.5.2",
     "nativescript-socketio": "^3.3.1",
     "nativescript-toasty": "^3.0.0-alpha.2",
